@@ -18,12 +18,12 @@ function ContactMe() {
     <div className="h-screen flex relative flex-col text-center md:text-left md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center">
 
 
-      <div className="flex flex-col space-y-10 mt-10">
+      <div className="flex flex-col space-y-5 mt-20">
         <h4 className="text-2xl md:text-4xl font-semibold text-center">
           <span className="underline decoration-[#3374FF]/50">Let's Talk.</span>
         </h4>
 
-        <div className="space-y-7">
+        <div className="space-y-5">
           <div className="flex items-center space-x-5 justify-center">
             <PhoneIcon className="text-[#3374FF] h-7 w-7 animate-pulse" />
             <p className="text-1xl md:text-2xl">+8801890568161</p>
