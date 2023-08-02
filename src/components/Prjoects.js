@@ -50,8 +50,8 @@ function Prjoects({ projectName, projectDetails }) {
       name: "Portfolio website",
       details: "This website is built with react.js .",
       imgSrc: codeeditor,
-      github: "https://github.com/avijitsaha/Code-Editor",
-      liveDemo: "https://code-editor-git-master-avijitsaha2997.vercel.app/",
+      github: "https://github.com/Mehedi325/Portfolio_website",
+      liveDemo: "https://portfolio-website-mehedi.vercel.app/",
     },
 
   ];
