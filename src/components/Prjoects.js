@@ -1,16 +1,16 @@
 import React from "react";
 import { motion } from "framer-motion";
 // import spotify from "./porfolio projects pics/3.png";
-import ecomerce from "./porfolio projects pics/2.png";
+import ecomerce from "./porfolio projects pics/e-school.png";
 // import Food_Store_1 from "./porfolio projects pics/1.png";
 // import Food_Store_2 from "./porfolio projects pics/4.png";
 // import portfolio from "./porfolio projects pics/5.png";
-import airbnb from "./porfolio projects pics/6.png";
+import airbnb from "./porfolio projects pics/acdemic.png";
 // import netflix from "./porfolio projects pics/7.png";
-import social from "./porfolio projects pics/9.png";
-import itApp from "./porfolio projects pics/10.png";
+import social from "./porfolio projects pics/business.png";
+import itApp from "./porfolio projects pics/e-commerce.png";
 // import disnep from "./porfolio projects pics/11.png";
-import codeeditor from "./porfolio projects pics/12.png";
+import codeeditor from "./porfolio projects pics/portfolio.png";
 
 function Prjoects({ projectName, projectDetails }) {
   const projects = [
