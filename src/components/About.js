@@ -23,11 +23,6 @@ function About() {
         className="-mb-32 md:mb-0 flex-shrink-0 w-36 h-36 rounded-full object-cover md:rounded-lg md:w-72 md:h-96 xl:w-[500px] xl:h-[500px]"
       />
       <div className="space-y-10 px-0 md:px-10 ">
-        <h4 className="text-2xl md:text-4xl font-semibold">
-          Here is,{" "}
-          <span className="underline decoration-[#3374FF]/50"></span>{" "}
-          About Myself
-        </h4>
         <p className="text-base">
         As a front-end web developer, I am passionate about crafting immersive and user-friendly digital experiences.   
         With a strong foundation in HTML, CSS, and JavaScript, I strive to create visually appealing and responsive 
