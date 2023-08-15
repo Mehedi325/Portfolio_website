@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://portfolio-website-mehedi.vercel.app/)
 
-![Protfolio Website](public/portfolio.png)
+![Protfolio Website](public/Portfolio.png)
 
 <div align="center">
 
